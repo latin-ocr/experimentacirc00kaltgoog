@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./experimentacirc00kaltgoog_0006.png"; bbox 0 0 4800 6194; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 9 1157 1975 1456">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 9 1157 1975 1456">
+     <span class='ocr_line' id='line_1_1' title="bbox 9 1157 1975 1456; baseline -0.002 -78"><span class='ocrx_word' id='word_1_1' title='bbox 9 1449 15 1456; x_wconf 14' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_2' title='bbox 288 1232 697 1378; x_wconf 60' lang='lat' dir='ltr'><strong>smum</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 745 1226 1246 1378; x_wconf 80' lang='lat' dir='ltr'><strong>SANGUINIS</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1311 1231 1441 1375; x_wconf 79' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1486 1157 1975 1381; x_wconf 78' lang='lat' dir='ltr'>vAsoRUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 523 1742 2306 2022">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 523 1742 2306 2022">
+     <span class='ocr_line' id='line_1_2' title="bbox 523 1742 2306 2022; baseline -0.001 -68"><span class='ocrx_word' id='word_1_6' title='bbox 523 1812 1716 1959; x_wconf 78' lang='lat' dir='ltr'><strong>INFLAMMATIONE.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1840 1914 1891 2006; x_wconf 71' lang='lat'><em>„</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1997 2013 2002 2022; x_wconf 15' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_9' title='bbox 2299 1742 2306 1754; x_wconf 71' lang='lat'>&#39;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2404 6194">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2404 6194">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 2404 6194; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 2404 6194; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
